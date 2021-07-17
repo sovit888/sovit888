@@ -36,6 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-server&theme=light" />
 
 </a>
-<a href="https://github.com/sovit888/store-management-client-">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-client-&theme=light" />
+<a href="https://github.com/sovit888/store-management-client">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-client&theme=light" />
 </a>
