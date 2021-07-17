@@ -32,9 +32,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sovit888&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
   <a href="https://github.com/sovit888/store-management-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-server&theme=light" />
 
 </a>
 <a href="https://github.com/sovit888/store-management-client-">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-client-&theme=light" />
 </a>
