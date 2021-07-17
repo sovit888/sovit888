@@ -21,7 +21,8 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="postgres" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="postgres" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="git" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="postman" width="40" height="40"/>
