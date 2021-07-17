@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying B.Sc.CSIT
-- 🌱 I’m currently web and android development 
+- 🌱 I’m currently leraning web and android development 
 - 📫 How to reach me: sovitthapa008@gmail.com
  <p align="left">
 <h3 align="left">Connect with me:</h3>
