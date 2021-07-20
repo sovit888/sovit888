@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/sovit.thapa.1806" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sovit Thapa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/t_m_sovit/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sovit Thapa" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sovit-thapa-438aa21b3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sovit Thapa" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
