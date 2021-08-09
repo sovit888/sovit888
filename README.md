@@ -41,7 +41,7 @@
 <a href="https://github.com/sovit888/store-management-client">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=store-management-client&theme=light" />
 </a>
- <a href=" https://github.com/sovit888/ecommerce">
+ <a href="https://github.com/sovit888/ecommerce">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=ecommerce&theme=light" />
 </a>
 
