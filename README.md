@@ -16,7 +16,6 @@
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="django" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
@@ -26,7 +25,6 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="postman" width="40" height="40"/>
 <br/>
   <a href="https://github.com/sovit888">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovit888&theme=light&hide_langs_below=1" />
