@@ -12,18 +12,12 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="django" width="70" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="postgres" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="postgres" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="git" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="postman" width="40" height="40"/>
 <br/>
   <a href="https://github.com/sovit888">
