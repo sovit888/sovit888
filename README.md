@@ -36,4 +36,7 @@
  <a href="https://github.com/sovit888/ecommerce">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=ecommerce&theme=light" />
 </a>
+ <a href="https://github.com/sovit888/nodejsplayground">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=nodejsplayground&theme=light" />
+</a>
 
