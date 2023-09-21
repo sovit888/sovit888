@@ -1,7 +1,6 @@
 ### Hi,I am Sovit Thapa 👋
 
 
-- 🔭 I’m currently studying B.Sc.CSIT
 - 🌱 I’m currently leraning web and android development 
 - 📫 How to reach me: sovitthapa008@gmail.com
  <p align="left">
