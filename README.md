@@ -21,9 +21,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovit888&theme=light&hide_langs_below=1" />
 </a>
 
-##### Pinned
-
-  <a href="https://github.com/sovit888/nepali-datepicker-reactjs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovit888&repo=nepali-datepicker-reactjs&theme=light" />
-
-</a>
